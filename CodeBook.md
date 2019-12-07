@@ -20,12 +20,12 @@ We create variables according to the data presented, respecting the same names s
 
 -NamesF: List of all features
 
-NamesMean: List of names containing averages
+-NamesMean: List of names containing averages
 
-NamesStd: List of names containing standard deviation
+-NamesStd: List of names containing standard deviation
 
-Data_Mean_Std: Data that only have average and standard deviation records
+-Data_Mean_Std: Data that only have average and standard deviation records
 
-activity_labels: Links the class labels with their activity name
+-activity_labels: Links the class labels with their activity name
 
-
+-Data_sort: Ordered data where ordered by activity and subject. The average of the records that coincided in the activity and the subject was taken. Thus, leaving the average values of all records.
